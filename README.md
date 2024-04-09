@@ -18,6 +18,19 @@ reproduciblething aims to set in place the following tools for setting up a prac
 - (Optional) [GNU Make](https://www.gnu.org/software/make/)
   - Included in Linux & MacOS but not Windows
 
+## What's in the template?
+
+I assume that the end product you want is an academic manuscript or something similar. This template then provides
+
+- renv
+- Makefile
+- .Renviron.example
+- apaquarto template
+
+When these are set up, `make` goes from 0 to manuscript.pdf/docx/html?
+
+[todo]: Does this even need a new template? Well I always end up fiddling with the Makefile and loading relevant variable in source. I guess I want to make this for myself so that the author info is prefilled?
+
 ## Use
 
 tbd
