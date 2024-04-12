@@ -8,7 +8,7 @@ reproduciblething aims to set in place the following tools for setting up a prac
 - environment variables
   - To handle e.g. expensive computations do not prevent evaluation of reproducibility
 - Reasonable but non-restrictive template(s) for data analyses and outputs
-  - Would love Quarto but I guess papaja?
+  - <https://github.com/wjschne/apaquarto>
 
 ## Requirements
 
